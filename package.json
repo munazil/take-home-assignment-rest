@@ -19,6 +19,9 @@
     "swagger-jsdoc": "^6.1.0",
     "swagger-ui-express": "^4.1.6"
   },
+  "engines": {
+    "node": "14.15.0"
+  },
   "devDependencies": {
     "nodemon": "^2.0.12"
   }
