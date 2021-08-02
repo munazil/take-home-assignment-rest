@@ -1,0 +1,6 @@
+{
+    "env":{
+        "MONGO_ATLAS_PW": "takehome",
+        "JWT_KEY": "takehomejwtkey"
+    }
+}
